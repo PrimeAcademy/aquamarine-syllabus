@@ -7,11 +7,13 @@
 - Dane Smith, Instructor <dane@primeacademy.io>
 - Key Clark, Instructor <jakeh@primeacademy.io>
 - Kris Szafranski, Director of Instruction <kris@primeacademy.io>
-- Bethany Pfannenstiel, Cohort Advisor <bethany@primeacademy.io>
+- Megan Mikhelson, Cohort Advisor <megan@primeacademy.io>
 
 ## Other Prime Staff
 
 - Emily Schumacher, Director of Student Affairs & Alumni Experience <emily@primeacademy.io>
+- Christy Larsen, Director of Employee Partnerships <christy@primeacademy.io>
+- Bellamy Kim, Career & Alumni Relations <bellamy@primeacademy.io>
 
 ---
 
