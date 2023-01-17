@@ -4,7 +4,7 @@
 
 ## Instruction Staff
 
-- Dan Smith, Instructor <dane@primeacademy.io>
+- Dane Smith, Instructor <dane@primeacademy.io>
 - Kris Szafranski, Director of Instruction <kris@primeacademy.io>
 - Bethany Pfannenstiel, Cohort Advisor <bethany@primeacademy.io>
 
