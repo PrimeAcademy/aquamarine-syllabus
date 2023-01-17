@@ -1,4 +1,4 @@
-# [@TODO: Cohort Name] Cohort Tier 1 Syllabus
+# Aquamarine Cohort Tier 1 Syllabus
 
 **IMPORTANT:** Always subject to change.
 
