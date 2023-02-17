@@ -4,8 +4,8 @@
 
 ## Instruction Staff
 
-- Dane Smith, Instructor <dane@primeacademy.io>
 - Key Clark, Instructor <jakeh@primeacademy.io>
+- Emma Stout, Instructor <emma@primeacademy.io>
 - Kris Szafranski, Director of Instruction <kris@primeacademy.io>
 - Megan Mikhelson, Cohort Advisor <megan@primeacademy.io>
 
@@ -78,6 +78,12 @@ These are the things we expect you to be _doing_ in Tier 1:
 4. Ask for help. We're on the same team. You don't get a GPA. Cheating only hurts you.
 
 **If we notice you are not doing the above, you can expect that we will reach out and want to talk about it.**
+
+## Portal Daily Reflections
+
+Becoming a programmer is not a one day event. It is a journey. The Reflections tab in the Portal is your chance to reflect on your learning and how it's going. Note that this is primarily for you. _While we can see the entries, we do not monitor it actively._
+
+If something occurs to you during your reflection you want to talk about, click the checkbox for "I'd like to request a 1:1 with a staff member who is not my instructor" and it'll get routed accordingly.
 
 ---
 
