@@ -1,0 +1,230 @@
+# Schedule for a 4-day week 6
+# Tues - Fri
+#
+# Students should be assigned T1CC to complete on Monday,
+# and the JS Micro challenges as well
+label: Week 6 - jQuery
+days:
+  Day 1:
+    3:30pm:
+      - title: "HW: JS MicroChallenges"
+        end: 4:00pm
+        description: <a
+          href="https://github.com/PrimeAcademy/javascript-micro-challenges">https://github.com/PrimeAcademy/javascript-micro-challenges</a>
+    5:15pm:
+      - title: "HW: T1 Summary Challenge"
+        end: 6:15pm
+  Day 2:
+    ALL_DAY:
+      - title: "D1: JS Review, Understanding Code"
+    9:00am:
+      - title: Pick up FOBs, settle in
+        end: 9:30am
+    10:00am:
+      - title: Syllabus, T2 Expectations
+        end: 10:30am
+    10:30am:
+      - title: Where we're headed
+        end: 11:00am
+        description: <a
+          href="https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-01a_full-stack-preview.md">https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-01a_full-stack-preview.md</a>
+    11:00am:
+      - title: How does code work?
+        end: 12:00pm
+        description: "<u></u>Thinking like a computer<br>Running code line by line,
+          evaluating expression<u></u><br><u></u>Language around variables,
+          values, expressions, data types<u></u><br><u></u>Keywords, what is
+          tacos, what is a part of the language<br>Control flow: moving around
+          the code with functions, loops, conditionals<u></u>"
+    1:00pm:
+      - title: How does code work?
+        end: 2:00pm
+        description: "<html-blob>Thinking like a computer<br>Running code line by line,
+          evaluating expression</html-blob><br><html-blob>Language around
+          variables, values, expressions, data
+          types</html-blob><br><html-blob>Keywords, what is tacos, what is a
+          part of the language<br>Control flow: moving around the code with
+          functions, loops, conditionals</html-blob>"
+    2:00pm:
+      - title: "Demo: Talking about code"
+        end: 2:30pm
+        description: |-
+          Instructor talks through some code
+          Imagine control flow (line by line, jumping to fns, etc)
+          What are the values at each step? How is the code "evaluated"?
+    2:30pm:
+      - title: "Assignment: What is this even doing?"
+        end: 3:30pm
+        description: Or some variation... where students practice talking about code,
+          understanding it as the computer does.
+    3:30pm:
+      - title: Troubleshooting & Work Habits
+        end: 4:30pm
+        description: <a
+          href="https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-02c_troubleshooting.md">https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-02c_troubleshooting.md</a>
+    5:00pm:
+      - title: "HW: JS Rascal"
+        end: 6:15pm
+        description: I would modify this:<br>- have a couple that are "hand holding"
+          (via README and comments)<br>- and then a couple where they have to
+          figure it out.<br><br>I want to steer them <i>away</i>&nbsp;from just
+          looking for something wrong in the code. They should be relying on
+          error logs, console logs, and small iterations to fix bugs.
+  Day 3:
+    ALL_DAY:
+      - title: "D2: JS Debugging and Practice"
+    9:00am:
+      - title: "Work Habits: Test and Iterate"
+        end: 9:30am
+    9:30am:
+      - title: Pair Programming
+        end: 9:45am
+    9:45am:
+      - title: "Assignment: Bonus Calc"
+        end: 11:45am
+        description: <a
+          href="https://github.com/PrimeAcademy/object-group-bonus-calculator">https://github.com/PrimeAcademy/object-group-bonus-calculator</a>
+    1:00pm:
+      - title: Bonus Calc Live Solve
+        end: 2:15pm
+        description: <a
+          href="https://github.com/PrimeAcademy/object-group-bonus-calculator">https://github.com/PrimeAcademy/object-group-bonus-calculator</a>
+    2:15pm:
+      - title: What is the DOM? jQuery Intro
+        end: 3:15pm
+        description: |-
+          "Boxes inside boxes"
+          HTML vs. DOM
+           --- we can change it!
+    3:15pm:
+      - title: "Assignment: jQ Selector Chess"
+        end: 4:15pm
+        description: <html-blob>New assignment?<br>Thinking, practice each type of
+          selector (id, class, element) several times.<br><br>Just to get some
+          hands on practice with jQ, after watching the videos</html-blob>
+    5:00pm:
+      - title: "HW: Finish selector chess"
+        end: 5:30pm
+  Day 4:
+    ALL_DAY:
+      - title: "D3: jQ Fundamentals"
+    12:30am:
+      - title: "HW: jQ Practice Pt. 2"
+        end: 1:00am
+        description: <html-blob><u></u><u></u>Continuing to practice concepts from the
+          HW videos<br><u></u><br><u></u><br><u></u>Practice:<u></u><br><u></u>-
+          event handlers<u></u><br><u></u>- Form inputs<u></u><br><u></u>- DOM
+          manipulation (css, addClass, text, etc)<u></u><br><u></u>-
+          $(this)<br><br><u></u><u></u></html-blob><br><html-blob>Maybe
+          jq-microchallenges?</html-blob>
+    9:00am:
+      - title: "jQ: Events, DOM Manipulation"
+        end: 11:30am
+        description: <a
+          href="https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-03b_jquery-basics.md">https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-03b_jquery-basics.md</a>
+    1:00pm:
+      - title: Color Blocks
+        end: 2:30pm
+    3:00pm:
+      - title: "Conceptual: Event-> State -> Render"
+        end: 4:30pm
+        description: "It's really MVC... though I don't think we need to use that
+          language this week.<br><br><br><br>&nbsp; &nbsp; - What is
+          each:<br>&nbsp; &nbsp; &nbsp; &nbsp;- UI is forms, buttons,
+          mousemouse, keyboards (user interaction)<br>&nbsp; &nbsp; &nbsp;
+          &nbsp;- state is data, it's variables! often global, often arrays of
+          objects (think spreadsheets!)<br>&nbsp; &nbsp; &nbsp; &nbsp;- DOM is
+          what we see. New term: \"render\"<br>&nbsp; &nbsp;- The circle of web
+          apps:<br>&nbsp; &nbsp; &nbsp; &nbsp;- UI: User does a thing: eg.
+          clicks a button<br>&nbsp; &nbsp; &nbsp; &nbsp;- state: JS code updates
+          the value of some var<br>&nbsp; &nbsp; &nbsp; &nbsp;- DOM: we use that
+          new state value to \"render\", and update what we're showing<br>&nbsp;
+          &nbsp;- Each part of this cycle corresponds to a chunk of
+          code:<br>&nbsp; &nbsp; &nbsp; &nbsp;- UI: event handlers registration
+          (onReady)<br>&nbsp; &nbsp; &nbsp; &nbsp;- state: updating global vars
+          in handler<br>&nbsp; &nbsp; &nbsp; &nbsp;- DOM: render()<br>&nbsp;
+          &nbsp;- Practical example: score keeper (add points in form, render
+          total score)<br>&nbsp; &nbsp;- Patterns! Patterns everywhere! &nbsp;
+          &nbsp; &nbsp; &nbsp;- Patterns help us think about code, every app is
+          similar in certain ways<br>&nbsp; &nbsp; &nbsp; &nbsp;- Writing code
+          is all about following battle-tested patterns<br>&nbsp; &nbsp; &nbsp;
+          &nbsp;- As you grow as a developer, you will learn more advanced
+          patterns, discover your own, etc.<br><br>&nbsp; &nbsp;<br>&nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- This pattern will continue
+          throughout T2, into react and beyond.<br>&nbsp; &nbsp; &nbsp; &nbsp;-
+          this job is hard, if we have to reinvent every line!<br>&nbsp; &nbsp;
+          &nbsp; &nbsp;- but: you need to <i>understand</i> the pattern.
+          Copy/Paste won't work on its own."
+    5:15pm:
+      - title: "Assignment: jQ Fungus Fighter"
+        end: 6:15pm
+        description: <a
+          href="https://github.com/PrimeAcademy/jquery-fungus-fighter">https://github.com/PrimeAcademy/jquery-fungus-fighter</a>
+  Day 5:
+    ALL_DAY:
+      - title: "D4: Building Web Apps with jQuery"
+    9:00am:
+      - title: Review HW in pods
+        end: 9:45am
+        description: "Share your code with your pod<br>Compare approaches: what's the
+          same, what's different<br>If you're stuck,&nbsp;<i>talk</i>&nbsp;about
+          how you would fix (but maybe don't code together?)"
+    10:00am:
+      - title: Rendering Arrays
+        end: 11:00am
+    11:00am:
+      - title: "Assignment: Garage App"
+        end: 12:00pm
+    1:00pm:
+      - title: "Live Solve: Garage App"
+        end: 2:00pm
+    2:00pm:
+      - title: "Demo: Remove Items from a list"
+        end: 3:00pm
+        description: Demo w/Garage App
+    4:15pm:
+      - title: "WC Prep: Make a plan!"
+        end: 5:00pm
+        description: >-
+          How does "The Pattern" fit into this assignment?
+
+          You will have an array of objects? What does each object represent? What properties does it have?
+
+          What's your game plan? When are you putting in the time? What if it takes longer than you expect? Who do you call if you need a hand?
+  Day 6:
+    ALL_DAY:
+      - title: "D5: CSS"
+    9:00am:
+      - title: CSS and Design Basics
+        end: 11:30am
+        description: >-
+          "It doesn't have to look beautiful, but here are some tips so it
+          doesn't loo awful"
+
+              Using dev tools
+                 workspaces?
+                 features: color picker, up/down pixels, helpers for shadows, etc.
+              Design 101: 
+                  give room to breath, keep related things together
+                  Content hierarchy (eg, using heading tags well)
+             alignment
+             flex box, (w/dev tools)
+    11:30am:
+      - title: CSS Challenge
+        end: 12:00pm
+        description: <html-blob><u></u>Something like<br><a
+          href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj">https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj</a><br><br>I
+          have a simplified version of that ^, which I used for
+          Gaiman.<br><br>Could probably come up with something more applicable,
+          too. Was thinking start with something that "broken" (bad spacing, out
+          of alignment, etc)<u></u><br><u></u><br><u></u><br><u></u><a
+          href="https://github.com/PrimeAcademy/order-summary-css-challenge">https://github.com/PrimeAcademy/order-summary-css-challenge</a><br><u></u></html-blob><br><br>or&nbsp;<br><a
+          href="https://github.com/PrimeAcademy/css-show-and-tell" id="ow3745"
+          __is_owner="true">https://github.com/PrimeAcademy/css-show-and-tell</a>
+    12:45pm:
+      - title: CSS Challenge cont.
+        end: 1:45pm
+    3:00pm:
+      - title: Speeches
+        end: 4:00pm
+

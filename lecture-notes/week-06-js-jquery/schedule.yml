@@ -1,0 +1,244 @@
+label: Week 6 - jQuery
+days:
+  Day 1:
+    ALL_DAY:
+      - title: "D1: JS Review, Understanding Code"
+        end: 12:00am
+    9:00am:
+      - title: Pick up FOBs, settle in
+        end: 9:15am
+    9:15am:
+      - title: "Campus Tour "
+        end: 9:30am
+    9:30am:
+      - title: Syllabus, T2 Expectations
+        end: 10:15am
+    10:15am:
+      - title: Where we're headed
+        end: 10:45am
+        description: <a
+          href="https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-01a_full-stack-preview.md">https://github.com/PrimeAcademy/prime-curriculum-syllabus/blob/develop/curriculum-content/bridge-week-06-js-jquery/06-01a_full-stack-preview.md</a>
+    10:45am:
+      - title: How does code work?
+        end: 12:00pm
+        description: "<u></u>Thinking like a computer<br>Running code line by line,
+          evaluating expression<u></u><br><u></u>Language around variables,
+          values, expressions, data types<u></u><br><u></u>Keywords, what is
+          tacos, what is a part of the language<br>Control flow: moving around the
+          code with functions, loops, conditionals<u></u>"
+    1:00pm:
+      - title: How does code work?
+        end: 2:00pm
+        description: "<html-blob>Thinking like a computer<br>Running code line by line,
+          evaluating expression</html-blob><br><html-blob>Language around
+          variables, values, expressions, data
+          types</html-blob><br><html-blob>Keywords, what is tacos, what is a part
+          of the language<br>Control flow: moving around the code with functions,
+          loops, conditionals</html-blob>"
+    2:00pm:
+      - title: "Demo: Talking about code"
+        end: 2:30pm
+        description: |-
+          Instructor talks through some code
+          Imagine control flow (line by line, jumping to fns, etc)
+          What are the values at each step? How is the code "evaluated"?
+    2:30pm:
+      - title: "Assignment: What is this even doing?"
+        end: 3:30pm
+        description: Or some variation... where students practice talking about code,
+          understanding it as the computer does.
+    3:30pm:
+      - title: "HW: JS MicroChallenges"
+        end: 4:00pm
+        description: <a
+          href="https://github.com/PrimeAcademy/javascript-micro-challenges">https://github.com/PrimeAcademy/javascript-micro-challenges</a>
+    5:15pm:
+      - title: "HW: T1 Summary Challenge"
+        end: 6:15pm
+  Day 2:
+    ALL_DAY:
+      - title: "D2: JS Debugging and Practice"   
+        end: 12:00am
+    9:00am:
+      - title: T1 CC Q&A   
+        end: 9:30am
+    9:30am:
+      - title: "Work Habits: Test and Iterate"   
+        end: 10:00am
+    10:00am:
+      - title: Pair Programming   
+        end: 10:15am
+    10:15am:
+      - title: "Assignment: Bonus Calc"   
+        end: 11:30am
+        description: |-
+          Q: Should this be after jQuery? It uses jQ?
+          Otherwise, maybe implement jQ for them
+    11:30am:
+      - title: "Code of Conduct "   
+        end: 12:00pm
+    1:30pm:
+      - title: Bonus Calc Live Solve   
+        end: 2:15pm
+    2:15pm:
+      - title: Troubleshooting & Work Habits   
+        end: 3:15pm
+        description: |-
+          Describe, isolate, fix
+          Error messages and stacks
+          Tools, the console
+          Iterating, one line at a time
+          debugger?
+    3:15pm:
+      - title: "Assignment: JS Rascal"   
+        end: 4:30pm
+        description: I would modify this:<br>- have a couple that are "hand holding"
+          (via README and comments)<br>- and then a couple where they have to
+          figure it out.<br><br>I want to steer them <i>away</i>&nbsp;from just
+          looking for something wrong in the code. They should be relying on error
+          logs, console logs, and small iterations to fix bugs.
+    4:30pm:
+      - title: Introduce jQuery HW   
+        end: 5:00pm
+        scription: Homework has notes, with important context before watching the videos
+    5:15pm:
+      - title: "HW: jQ videos: Conceptual + Practical (25min)"   
+        end: 5:45pm
+        description: <a
+          href="https://github.com/PrimeAcademy/jquery-fundamentals-video">https://github.com/PrimeAcademy/jquery-fundamentals-video</a>
+  Day 3:
+    ALL_DAY:
+      - title: "D3: jQ Fundamentals"   
+        end: 12:00am
+    9:00am:
+      - title: What is the DOM?   
+        end: 9:30am
+        description: |-
+          "Boxes inside boxes"
+          HTML vs. DOM
+          --- we can change it!
+    9:30am:
+      - title: jQ Selectors   
+        end: 10:00am
+    10:00am:
+      - title: "Assignment: jQ Selector Chess"   
+        end: 11:00am
+        description: <html-blob>New assignment?<br>Thinking, practice each type of
+          selector (id, class, element) several times.<br><br>Just to get some
+          hands on practice with jQ, after watching the videos</html-blob>
+    11:00am:
+      - title: "jQ Review: Events, DOM Manipulation"   
+        end: 12:00pm
+    1:00pm:
+      - title: jQ Contd.   
+        end: 1:30pm
+    2:00pm:
+      - title: jq MicroChallenges   
+        end: 3:15pm
+        description: <a
+          href="https://github.com/PrimeAcademy/jquery-micro-challenges">https://github.com/PrimeAcademy/jquery-micro-challenges</a>
+    3:15pm:
+      - title: Q&A / Live Solve Micro Challenges   
+        end: 4:15pm
+    5:15pm:
+      - title: 'HW: jQ Videos: "T1 Synopsis"'   
+        end: 5:45pm
+        description: |-
+          "T1 Synopsis" videos for W5
+          -- these are really jQuery review, and will prep for D4 content
+    5:45pm:
+      - title: "HW: Finish Color Blocks"   
+        end: 6:15pm
+  Day 4:
+    ALL_DAY:
+      - title: "D4: Building Web Apps with jQuery"   
+        end: 12:00am
+    12:30am:
+      - title: "HW: jQ Practice Pt. 2"   
+        end: 1:00am
+        description: <html-blob><u></u><u></u>Continuing to practice concepts from the
+          HW videos<br><u></u><br><u></u><br><u></u>Practice:<u></u><br><u></u>-
+          event handlers<u></u><br><u></u>- Form inputs<u></u><br><u></u>- DOM
+          manipulation (css, addClass, text, etc)<u></u><br><u></u>-
+          $(this)<br><br><u></u><u></u></html-blob><br><html-blob>Maybe
+          jq-microchallenges?</html-blob>
+    9:00am:
+      - title: "Colors blocks: Show and Tell in Pods"   
+        end: 9:30am
+        description: "Share your code with your pod<br>Compare approaches: what's the
+          same, what's different<br>If you're stuck,&nbsp;<i>talk</i>&nbsp;about
+          how you would fix (but maybe don't code together?)"
+    9:30am:
+      - title: CB Live solve   
+        end: 9:45am
+    10:00am:
+      - title: "Conceptual: Event-> State -> Render"   
+        end: 11:00am
+    11:00am:
+      - title: "Assignment: jQ Fungus Fighter"   
+        end: 11:45am
+        description: <a
+          href="https://github.com/PrimeAcademy/jquery-fungus-fighter">https://github.com/PrimeAcademy/jquery-fungus-fighter</a>
+    1:15pm:
+      - title: Fungus Fighter contd.   
+        end: 2:30pm
+    2:30pm:
+      - title: "Assignment: Car garage"   
+        end: 3:30pm
+        description: Using the patterns we talked about this morning (array of objects)
+    3:30pm:
+      - title: "jQ: Removing items from a list"   
+        end: 4:30pm
+        description: <html-blob><br>&nbsp;&nbsp;&nbsp;&nbsp;event
+          delegation<br>&nbsp;&nbsp;&nbsp;$(this)<br>&nbsp;&nbsp;&nbsp;.remove()  --
+          downside, doesn't update state (demo "ghost" elements, on delete then
+          add)<br>&nbsp;&nbsp;&nbsp;.splice() and re-render</html-blob>
+    5:45pm:
+      - title: "HW: Finish Car Garage"   
+        end: 6:15pm
+    6:15pm:
+      - title: "Assignment: Car Garage: Remove a car"   
+        end: 7:15pm
+  Day 5:
+    ALL_DAY:
+      - title: "D5: CSS"   
+        end: 12:00am
+    9:00am:
+      - title: CSS and Design Basics   
+        end: 11:30am
+    11:30am:
+      - title: CSS Challenge   
+        end: 12:00pm
+        description: <html-blob><u></u>Something like<br><a
+          href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj">https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj</a><br><br>I
+          have a simplified version of that ^, which I used for
+          Gaiman.<br><br>Could probably come up with something more applicable,
+          too. Was thinking start with something that "broken" (bad spacing, out
+          of alignment, etc)<u></u><br><u></u><br><u></u><br><u></u><a
+          href="https://github.com/PrimeAcademy/order-summary-css-challenge">https://github.com/PrimeAcademy/order-summary-css-challenge</a><br><u></u></html-blob><br><br>or&nbsp;<br><a
+          href="https://github.com/PrimeAcademy/css-show-and-tell" id="ow3745"
+          __is_owner="true">https://github.com/PrimeAcademy/css-show-and-tell</a>
+    1:00pm:
+      - title: CSS Challenge cont.   
+        end: 2:00pm
+    2:00pm:
+      - title: "Review: Solve Garage"   
+        end: 3:00pm
+        description: Review "The Pattern" one more time
+    3:00pm:
+      - title: Speeches   
+        end: 4:30pm
+    4:30pm:
+      - title: How to Weekend Challenge   
+        end: 5:00pm
+        description: From curriculum write up
+    4:45pm:
+      - title: "WC Prep: Make a plan!"   
+        end: 5:30pm
+        description: >-
+          How does "The Pattern" fit into this assignment?
+
+          You will have an array of objects? What does each object represent? What properties does it have?
+
+          What's your game plan? When are you putting in the time? What if it takes longer than you expect? Who do you call if you need a hand?
+

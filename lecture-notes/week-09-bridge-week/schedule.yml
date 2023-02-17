@@ -1,0 +1,159 @@
+label: Week 9 - Bridge Week
+days:
+  Day 1:
+    9:00am:
+      - title: Bridge Week Overview & Expectations
+        end: 9:45am
+        description: >-
+          Expectations, work load (expect same as other week), format is
+          similar, just no new libraries/languages. Nightly homework, week's
+          schedule.
+
+          Review https://github.com/PrimeAcademy/bridge-week-assignment-review
+    9:45am:
+      - title: SQL Todo List Live Solve
+        end: 12:00pm
+        description: https://github.com/PrimeAcademy/weekend-sql-to-do-list
+    1:00pm:
+      - title: Code Challenge 3
+        end: 2:30pm
+    2:45pm:
+      - title: Deploy w/Database
+        end: 3:45pm
+    3:45pm:
+      - title: Deploy your WC
+        end: 4:45pm
+  Day 2:
+    10:15am:
+      - title: Debugging and Troubleshooting
+        end: 12:00pm
+        description: |-
+          Review using the debugger in Chrome
+          Teach using the debugger in VSCode ("JS Debug Terminal" makes it easy)
+
+          Introduce Describe/Isolate/Fixing approach.
+    1:00pm:
+      - title: Monty the Meddlesome Marsupial
+        end: 3:00pm
+        description: https://github.com/PrimeAcademy/monty-marsupial-debugging
+    3:15pm:
+      - title: Q&A
+        end: 4:00pm
+    4:15pm:
+      - title: Group Reflections on Debugging
+        end: 4:45pm
+    5:15pm:
+      - title: "HW: Debugging Exercises"
+        end: 6:00pm
+    8:00pm:
+      - title: Reflections / Discussion
+        end: 8:30pm
+        description: >-
+          Discuss in pods or pairs:
+
+          Which methods of debugging worked best for you? 
+
+          What else works for you? 
+
+          What's the hardest part for you? 
+
+          Could code have been written in a different way, that would have made debugging easier?
+  Day 3:
+    9:00am:
+      - title: Refactoring w/Functions
+        end: 10:00am
+        description: >-
+          What is refactoring and why?
+
+          https://refactoring.guru/refactoring
+
+
+          Demo live with WC1 (employee salary calc)
+
+          Copy pasting code around
+
+          Functions: what are the inputs (what data do we need)? What can we return?
+
+          Avoiding globals, using args/returns when possible
+
+
+          SRP: Functions should do one thing. If not, split it up.
+    10:15am:
+      - title: Refactor Practice Exercises
+        end: 11:15am
+    11:30am:
+      - title: Q&A
+        end: 12:00pm
+    1:00pm:
+      - title: Bonus Calculator Refactor
+        end: 2:30pm
+        description: https://github.com/PrimeAcademy/bonus-calculator-refactor
+    2:30pm:
+      - title: Bonus Calc Q&A
+        end: 3:15pm
+        description: Maybe live solve a chunk of it.
+    3:15pm:
+      - title: Group Reflections on Refactoring
+        end: 3:45pm
+        description: >-
+          https://github.com/PrimeAcademy/bonus-calculator-refactor#reflections-on-refactoring
+
+
+          Bring questions or thoughts back to class
+    4:00pm:
+      - title: Is it Tacos?
+        end: 4:45pm
+        description: https://github.com/PrimeAcademy/is-it-tacos
+    5:15pm:
+      - title: "HW: Is It Tacos"
+        end: 5:45pm
+        description: <a
+          href="https://github.com/PrimeAcademy/refactoring-exercises">https://github.com/PrimeAcademy/refactoring-exercises</a>
+  Day 4:
+    9:00am:
+      - title: Objects and Arrays
+        end: 10:00am
+        description: |-
+          Accessing deep-nested properties w/dot syntax
+          Dynamic properties w/square brackets (eg. `obj[varName]`)
+    10:00am:
+      - title: Object Spelunker
+        end: 11:00am
+        description: https://github.com/PrimeAcademy/object-spelunker
+    1:00pm:
+      - title: Object Spelunker Contd.
+        end: 4:45pm
+    5:15pm:
+      - title: "HW: Object Spelunker Contd."
+        end: 5:45pm
+  Day 5:
+    9:00am:
+      - title: Object Spelunker Q&A
+        end: 9:45am
+    9:45am:
+      - title: Arrays and Callback Functions
+        end: 11:00am
+    11:00am:
+      - title: Object Spelunker stretch goals
+        end: 12:00pm
+        description: |-
+          https://github.com/PrimeAcademy/object-spelunker
+
+          using .map() and .filter()
+    1:00pm:
+      - title: Speeches
+        end: 2:00pm
+    2:00pm:
+      - title: CSS, Design, Accessibility
+        end: 3:00pm
+    3:15pm:
+      - title: "CSS Practice: cantunsee.space"
+        end: 3:45pm
+    5:15pm:
+      - title: "HW: Comments CSS Challenge"
+        end: 5:45pm
+        description: https://github.com/PrimeAcademy/comments-css-challenge
+    5:45pm:
+      - title: "HW: Resubmit WC3, if Needs"
+        end: 6:15pm
+

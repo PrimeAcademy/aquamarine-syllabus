@@ -1,0 +1,119 @@
+label: Week 8 - SQL, REST API
+days:
+  Day 1:
+    9:00am:
+      - title: Server-side Calculator live solve
+        end: 11:15am
+    11:15am:
+      - title: Deploy WC to Heroku
+        end: 12:00pm
+    1:00pm:
+      - title: Code Challenge
+        end: 2:30pm
+    2:30pm:
+      - title: Express routers
+        end: 3:30pm
+    3:30pm:
+      - title: "Routers: Add a /movies router"
+        end: 4:00pm
+    4:00pm:
+      - title: "Assignment: Router Rascal"
+        end: 5:00pm
+    6:00pm:
+      - title: "HW: Install Postgres & Postico"
+        end: 6:15pm
+    6:15pm:
+      - title: "HW: Finish Router Rascal"
+        end: 6:30pm
+    6:30pm:
+      - title: "HW: Finish deploying WC #2 to Heroku"
+        end: 6:45pm
+  Day 2:
+    9:00am:
+      - title: DB overview
+        end: 10:00am
+    11:00am:
+      - title: SQL intro
+        end: 12:00pm
+    1:00pm:
+      - title: SQL intro continued
+        end: 2:15pm
+    2:15pm:
+      - title: "Assignment: SQL Syntax Challenge"
+        end: 3:15pm
+    3:15pm:
+      - title: PG intro
+        end: 4:00pm
+    4:00pm:
+      - title: "Assignment: Jazzy SQL DB"
+        end: 5:00pm
+      - title: Early dismissal for alumni panel
+        end: 5:00pm
+    6:30pm:
+      - title: "HW: Finish Jazzy SQL DB"
+        end: 6:45pm
+    6:45pm:
+      - title: "HW: Finish SQL Syntax Challenge"
+        end: 7:00pm
+  Day 3:
+    9:00am:
+      - title: PG intro continued
+        end: 11:00am
+    11:00am:
+      - title: "Assignment: Finish Jazzy SQL"
+        end: 12:00pm
+    1:00pm:
+      - title: DELETE with pg using params
+        end: 2:30pm
+    2:30pm:
+      - title: PUT with pg
+        end: 3:30pm
+    3:30pm:
+      - title: "Assignment: PG Bookstore (PUT & DELETE)"
+        end: 5:00pm
+    6:00pm:
+      - title: "HW: Finish PG Bookstore"
+        end: 6:15pm
+  Day 4:
+    9:00am:
+      - title: Git branching with pull requests
+        end: 10:00am
+    10:00am:
+      - title: Koala Holla group project
+        end: 5:00pm
+    6:00pm:
+      - title: "HW: Read over WC"
+        end: 6:15pm
+  Day 5:
+    9:00am:
+      - title: Koala Holla group project
+        end: 11:00pm
+    11:00am:
+      - title: Group Retro & wrapup
+        end: 12:00pm
+    1:00pm:
+      - title: Speeches
+        end: 2:15pm
+        description: |-
+          If you could solve any one problem in the world, what would it be?
+
+          OR
+
+          What makes you weird?
+    2:15pm:
+      - title: READMEs
+        end: 2:30pm
+    3:15pm:
+      - title: Begin WC
+        end: 5:00pm
+    3:30pm:
+      - title: Clean up
+        end: 3:45pm
+        description: |-
+          Clean whiteboards
+          Toss trash
+          Organize things
+          Wipe desks
+    6:00pm:
+      - title: "Weekend Challenge #3 - Full-stack To-do App"
+        end: 6:15pm
