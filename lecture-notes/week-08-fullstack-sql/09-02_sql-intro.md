@@ -10,14 +10,6 @@ Structured Query Language (SQL) is a standard computer language for relational d
 ## Intro to Relational Databases
 We will be using Postgres for our database and Postico for our client. Keep in mind you can use Postgres with Node.js, SQLite for mobile or MySQL for PHP. SQL is common across all of these different platforms.
 
-Designed to be able to efficiently read and write large amounts of data when properly configured
-
- - Provides ACID guarantees:
-  - Atomicity - each transaction is all or nothing
-  - Consistency - each tx brings DB from valid state to a new valid state. All constraints still hold
-  - Isolation - concurrent transactions should appear serial to the user, no in progress tx should know about data from another in progress tx
-  - Durability - withstand crashes and power failures
-
 ## Intro to Postico
 
 ![Postico Postgres Client](images/postico-client.jpg)
