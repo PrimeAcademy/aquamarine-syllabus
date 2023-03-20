@@ -1,0 +1,106 @@
+label: Week 13 - Auth, Solo Scopes
+days:
+  Day 1:
+    9:00am:
+      - title: Heatmap Q/A
+        end: 9:30am
+    9:30am:
+      - title: Peer Review
+        end: 10:30am
+    10:30am:
+      - title: Code Challenge 6
+        end: 12:00pm
+    1:00pm:
+      - title: Solo Project Intro
+        end: 1:30pm
+    1:30pm:
+      - title: Wireframes Entities + CRUD
+        end: 2:00pm
+    2:00pm:
+      - title: MUI
+        end: 3:00pm
+      - title: Layout & CSS Options
+        end: 2:30pm
+    3:15pm:
+      - title: Figma / Tools
+        end: 4:00pm
+    4:00pm:
+      - title: Wireframes
+        end: 5:00pm
+    5:30pm:
+      - title: "HW: Solo Wireframes"
+        end: 5:45pm
+  Day 2:
+    9:15am:
+      - title: Auth Conceptual
+        end: 10:00am
+    1:00pm:
+      - title: Passport Ctd.
+        end: 3:00pm
+    3:00pm:
+      - title: ERD / DB Diagrams
+        end: 3:30pm
+    3:30pm:
+      - title: Scope Work
+        end: 5:00pm
+    5:30pm:
+      - title: "HW: Solo ERDs"
+        end: 5:45pm
+    5:45pm:
+      - title: "HW: Update Wireframes from Peer Review"
+        end: 6:00pm
+  Day 3:
+    9:00am:
+      - title: ERD Reviews
+        end: 9:30am
+    9:30am:
+      - title: UX Principles Lecture
+        end: 11:00am
+    1:00pm:
+      - title: Secure Submarine
+        end: 2:30pm
+    2:30pm:
+      - title: Front End Auth
+        end: 4:00pm
+    2:45pm:
+      - title: Spike Intro
+        end: 3:00pm
+    4:00pm:
+      - title: Scope Work
+        end: 5:00pm
+    5:30pm:
+      - title: "HW: Scope First Draft"
+        end: 5:45pm
+    5:45pm:
+      - title: HW Update ERDs, make pretty
+        end: 6:00pm
+  Day 4:
+    9:00am:
+      - title: Auth Shelf Group Project
+        end: 5:00pm
+    5:30pm:
+      - title: "HW: Scope Fixes and Updates"
+        end: 5:45pm
+    6:00pm:
+      - title: Study Group
+        end: 8:00pm
+  Day 5:
+    9:00am:
+      - title: Auth Shelf Wrap Up
+        end: 12:00pm
+    1:00pm:
+      - title: Tier 3 Kickoff
+        end: 1:30pm
+    1:30pm:
+      - title: Scope Work
+        end: 4:30pm
+    4:30pm:
+      - title: Scope & Spike Q&A
+        end: 5:00pm
+    5:30pm:
+      - title: "HW: Final Draft of Scope"
+        end: 5:45pm
+    5:45pm:
+      - title: "HW: Spike"
+        end: 6:00pm
+

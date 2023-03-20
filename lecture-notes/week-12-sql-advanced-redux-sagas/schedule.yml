@@ -1,0 +1,97 @@
+label: Week 12 - Sagas, APIs, Adv SQL, Solo Ideas
+days:
+  Day 1:
+    9:00am:
+      - title: Weekend Peer Review
+        end: 10:00am
+    10:00am:
+      - title: Weekend Challenge Q&A
+        end: 10:00am
+    10:30am:
+      - title: Code Challenge 5
+        end: 11:30am
+    1:00pm:
+      - title: SQL Joins
+        end: 3:00pm
+    3:00pm:
+      - title: "HW: SQL Joins 1-M Challenge"
+        end: 4:00pm
+    4:00pm:
+      - title: SQL Joins M-M Challenge
+        end: 5:00pm
+    5:15pm:
+      - title: "HW: Solo Ideas"
+        end: 5:30pm
+  Day 2:
+    9:00am:
+      - title: SQL Work Time
+        end: 10:00am
+    10:00am:
+      - title: Axios on Server, API & dotenv
+        end: 12:00pm
+    1:00pm:
+      - title: Giphy Random
+        end: 2:15pm
+    4:15pm:
+      - title: "HW: API Research!"
+        end: 4:45pm
+  Day 3:
+    9:00am:
+      - title: Saga Fruit Basket
+        end: 12:00pm
+    9:15am:
+      - title: Generator Functions
+        end: 9:45am
+    9:45am:
+      - title: Saga Setup
+        end: 10:15am
+    10:15am:
+      - title: mvc
+        end: 10:45am
+    10:45am:
+      - title: Heroku
+        end: 11:15am
+    1:15pm:
+      - title: Whiteboards --  Recurison
+        end: 2:30pm
+    2:45pm:
+      - title: Talk - Draw - Talkback
+        end: 4:00pm
+    4:00pm:
+      - title: Saga Garden
+        end: 5:00pm
+  Day 4:
+    9:00am:
+      - title: Giphy Group
+        end: 5:00pm
+    10:15am:
+      - title: Solo Project Idea Discussion 1-1
+        end: 5:00pm
+    4:30pm:
+      - title: Pitching Solo Projects
+        end: 5:00pm
+    5:30pm:
+      - title: Weekend Challenge Preview
+        end: 6:00pm
+    6:00pm:
+      - title: Study Group
+        end: 8:00pm
+  Day 5:
+    9:00am:
+      - title: Giphy Group Project
+        end: 1:00pm
+      - title: Solo Discussion 1-1s
+        end: 1:00pm
+    1:00pm:
+      - title: Giphy Wrap Up
+        end: 1:30pm
+    1:30pm:
+      - title: Retros
+        end: 2:15pm
+    2:15pm:
+      - title: Speeches
+        end: 2:45pm
+    3:15pm:
+      - title: Work Time
+        end: 5:00pm
+

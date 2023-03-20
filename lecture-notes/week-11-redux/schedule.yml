@@ -1,0 +1,75 @@
+label: Week 11 - Redux
+days:
+  Day 1:
+    9:00am:
+      - title: WC Q&A
+        end: 10:00am
+    10:00am:
+      - title: Code Challenge 4
+        end: 11:30am
+    1:30pm:
+      - title: React Router
+        end: 3:00pm
+    3:00pm:
+      - title: "HW: Router Practice"
+        end: 4:00pm
+    4:00pm:
+      - title: "HW: Redux Conceptual (video)"
+        end: 4:45pm
+  Day 2:
+    10:00am:
+      - title: "Solo Presentations (Sr. Cohort)"
+        end: 12:00pm
+    1:00pm:
+      - title: "Redux Intro: State + Reducers"
+        end: 3:30pm
+      - title: "Redux: Action Payloads + Spread"
+        end: 2:00pm
+    2:15pm:
+      - title: Redux Actions
+        end: 3:15pm
+    3:30pm:
+      - title: Redux Airport
+        end: 5:15pm
+  Day 3:
+    9:00am:
+      - title: Redux Baseball
+        end: 11:00am
+    11:00am:
+      - title: Redux  + Axios
+        end: 12:00pm
+    1:00pm:
+      - title: Shopping Cart
+        end: 2:45pm
+    3:00pm:
+      - title: "HW: Redux Artists"
+        end: 4:30pm
+  Day 4:
+    9:00am:
+      - title: Q&A / Review
+        end: 9:30am
+    9:30am:
+      - title: "Groups: Pizza Parlor"
+        end: 5:00pm
+    5:30pm:
+      - title: "HW: WC Preview"
+        end: 5:45pm
+    6:00pm:
+      - title: Study Group
+        end: 8:00pm
+      - title: "Optional HW: MUI Panda Pantry!"
+        end: 6:30pm
+  Day 5:
+    9:00am:
+      - title: "Groups: Pizza Parlor"
+        end: 10:00am
+    10:00am:
+      - title: Retros
+        end: 11:00am
+    1:00pm:
+      - title: Demo / Code Review
+        end: 2:00pm
+    2:00pm:
+      - title: "HW: Redux Weekend (#5)"
+        end: 3:15pm
+
