@@ -1,0 +1,73 @@
+label: Week 16 - New Server-Side Language
+days:
+  Day 1:
+    9:00am:
+      - title: Solo Project Presentation Prep
+        end: 10:00am
+    10:00am:
+      - title: Project Presentations!
+        end: 12:00pm
+    1:00pm:
+      - title: Deploy Solo Projects and Project Cleanup!
+        end: 2:30pm
+    2:30pm:
+      - title: Solo Project Retro
+        end: 3:30pm
+    3:30pm:
+      - title: "HW: Github Cleanup"
+        end: 5:00pm
+  Day 2:
+    9:00am:
+      - title: Week 16 Orientation 
+        end: 9:30am
+    9:30am:
+      - title: C# Self Exploration
+        end: 12:00pm
+    1:00pm:
+      - title: C# Self Exploration (ctd)
+        end: 2:15pm
+    2:15pm:
+      - title: C# Q/A 
+        end: 4:00pm
+    4:00pm:
+      - title: "HW: C# .NET WebAPI"
+        end: 5:00pm
+  Day 3:
+    9:00am:
+      - title: REST API Pizza
+        end: 11:00am
+    11:00am:
+      - title: FULL STACK -- EF and Postgres
+        end: 12:00pm
+    1:00pm:
+      - title: FULL STACK -- EF and Postgres
+        end: 3:00pm
+    3:00pm:
+      - title: Pet Hotel Planning
+        end: 5:00pm
+  Day 4:
+    9:00am:
+      - title: Pet Hotel
+        end: 5:00pm
+  Day 5:
+    9:00am:
+      - title: Pet Hotel Wrapup
+        end: 10:00am
+    10:00am:
+      - title: Retro
+        end: 11:00am
+    11:00am:
+      - title: C# Concepts and Research
+        end: 12:00pm
+    1:00pm:
+      - title: Client Project Pitches
+        end: 1:30pm
+    1:30pm:
+      - title: Unit Testing
+        end: 2:30pm      
+    2:30pm:
+      - title: Unit Testing Practice
+        end: 3:30pm
+    3:30pm:
+      - title: Weekend -- Choose Your Own Adventure 
+        end: 5:00pm
